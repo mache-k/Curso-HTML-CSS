@@ -1,17 +1,12 @@
 header{
     display: flex;
     justify-content: space-between;
-    background-color: #f00;
+    background-color: #7C5E99;
     border-bottom: 10px solid #000;
     padding: 10px 20px;
 
 }
     
-img{
-    width: 60px;
-    height: 60px;
-}
-
 nav{
     text-align: right;
 }
@@ -41,8 +36,4 @@ a::before{
     padding: 17px 18px 17px 20px;
     box-shadow: 5px 5px 0px #000;
     margin-right: 0px;
-}
-
-#button:hover{
-    background-color: aqua;
 }
