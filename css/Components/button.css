@@ -1,0 +1,15 @@
+.button{
+    display: inline-block;
+    background-color: #F25A70;
+    padding: 17px 18px 17px 20px;
+    box-shadow: 5px 5px 0px #000;
+    margin-right: 0px;
+    font-size: 20px;
+    font-family: inherit;
+    color: white;
+    text-decoration: none;
+}
+
+header .button:hover{
+    background-color: aqua;
+}
