@@ -37,3 +37,11 @@ a::before{
     box-shadow: 5px 5px 0px #000;
     margin-right: 0px;
 }
+
+h2{
+
+    color: #F25A70;
+    font-size: 48px;
+    font-family: 'Press Start 2P';
+    text-shadow: 2px 2px 0px #000;
+}
