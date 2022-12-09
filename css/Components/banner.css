@@ -1,12 +1,13 @@
 .banner{
     box-sizing: border-box;
     background-image: url(../../IMG/Banner.png);
-    height: 800px;
+    height: 750px;
     background-repeat: no-repeat;
     border-bottom: 10px solid #000;
     padding-left: 90px;
     padding-top: 110px;
-   
+    background-size: 100%;
+ 
 }
 
 .banner .wrapper{
