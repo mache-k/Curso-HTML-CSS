@@ -1,4 +1,4 @@
-.box{
+.box-nav{
     display: inline-block;
     background-color: #3A4042;
     border: 1px solid #000;
@@ -7,6 +7,6 @@
     padding: 42px 44px;
 }
 
-.box .title{
+.box-nav .main-title{
     margin-bottom: 28px;
 }

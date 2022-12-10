@@ -1,4 +1,4 @@
-.banner{
+.banner-format{
     box-sizing: border-box;
     background-image: url(../../IMG/Banner.png);
     height: 750px;
@@ -10,17 +10,17 @@
  
 }
 
-.banner .wrapper{
+.banner-format .wrapper{
     display: flex;
     flex-direction: column;
     width: 630px;
   
 }
-.banner .box{
+.banner-format .box-nav{
     margin-bottom: 38px;
   
 }
-.banner .navigation{
+.banner-format .navigation{
     display: flex;
     justify-content: space-around;
 }

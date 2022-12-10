@@ -1,0 +1,17 @@
+.section-main{
+    box-sizing: border-box;
+    background-color: #F25A70;
+    border-bottom: 10px solid #7C5E99;
+    padding-top: 50px;
+    padding-bottom: 100px;
+ 
+}
+   
+
+.section-main.-bg{
+  background-color: black;
+}
+.section-main.-bg{
+    border-bottom: #F25A70;
+  }
+
